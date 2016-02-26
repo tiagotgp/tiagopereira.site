@@ -59,8 +59,8 @@ a {
   }
 }
 .splash-header {
-  background-color: #263238;
-  background-image: linear-gradient(135deg, #263238, #546e7a);
+  background-color: #f00;
+  background-image: linear-gradient(135deg, #f00, #546e7a);
   min-height: 100vh;
 }
 @media screen and (min-width: 64em) {
